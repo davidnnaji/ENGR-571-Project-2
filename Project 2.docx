@@ -1,0 +1,16 @@
+"""
+David Nnaji
+4/12/2020
+ENGR 501
+Project 2
+"""
+
+#Libraries
+from math import *
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+#Obtain the data
+raw_data = np.genfromtxt("abalone_data.csv",delimiter=",")
+print(raw_data)
