@@ -4,7 +4,6 @@
 # Problem Statement
 This project aims to develop a classification algorithm that will predict the number of rings (and by extension the age) of an abalone given following the features and measurements:
 
-![Feature Table](featuretable.png "Feature Table")
 <center><img src="featuretable.png" alt="Feature Table"></center>
 
 Since the number of rings if not a continuous value, this problem can be considered a classification problem. For simplicity, the classes were set as r<4, 5, 6, …, 21, and r>21 (20 classes in total).
