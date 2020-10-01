@@ -1,4 +1,4 @@
-# ENGR 571 - Project 2
+# Abalone Classification Algorithm
 ![Cover_Image](coverimage.png "Simple Classification Engine")
 
 # Problem Statement
