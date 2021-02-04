@@ -12,7 +12,3 @@ Although the results provide no new insight in light of documents that have alre
 
 # What the Heck are Abalone?
 [Abalone](https://en.wikipedia.org/wiki/Abalone) are marine snails that belong to the family Haliotidae. To determine the age of an individual abalone, it must be cut and stained before the number of rings can be counted through a microscope. Since this is process is often time-consuming and tedious, other approaches involving easier physical measurements have been proposed to estimate their age.
-
-
-#Gif Test 123...
-<center><img src="pearl.gif" alt="Pearl"></center>
